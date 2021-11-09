@@ -390,7 +390,7 @@ h6 {
    height: 100vh;
    background: url("../img/half-fruits.jpg") ;
    background-size: cover;
-   padding: 0;
+   padding: 0!important;
 }
 #hero .container {
    padding-top: 70px;
