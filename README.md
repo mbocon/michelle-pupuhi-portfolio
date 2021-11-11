@@ -11,7 +11,7 @@ This is a personal portfolio site for Michelle Pupuhi, a dietetics student.
 -  [HTML5](https://developer.mozilla.org/en-US/docs/Web/Guide/HTML/HTML5)
 -  [CSS3](https://developer.mozilla.org/en-US/docs/Web/CSS/CSS3)
 -  [JavaScript](https://developer.mozilla.org/en-US/docs/Web/JavaScript)
--  [PHP](https://www.php.net/)
+-  [emailJS](https://www.emailjs.com/)
 -  [Bootstrap](https://getbootstrap.com/)
 -  [Git](https://git-scm.com/)
 -  [Github](https://github.com/)
@@ -22,7 +22,7 @@ This is a personal portfolio site for Michelle Pupuhi, a dietetics student.
 
 <br>
 
-Click [here](https://www.google.com) to see the live site.
+Click [here](https://www.michelle-pupuhi.com/index.html) to see the live site.
 
 ## Future Enhancements
 
